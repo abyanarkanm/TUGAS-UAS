@@ -89,3 +89,4 @@ di mana `N_h` adalah jumlah populasi pada angkatan h, dan `n_h` jumlah responden
 ---
 
 *Repositori ini merupakan draft untuk keperluan penilaian UAS Mata Kuliah Metode Sampling, Program Studi Statistika, Universitas Mataram.*
+*_Author : Abyan Arkan Maulana (G1F02410013)_
